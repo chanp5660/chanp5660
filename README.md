@@ -1,4 +1,13 @@
-![image](https://user-images.githubusercontent.com/46266247/179419453-a01638cf-7db8-4083-a2b0-47057ba8c92c.png)
+![image](https://user-images.githubusercontent.com/46266247/179419453-a01638cf-7db8-4083-a2b0-47057ba8c92c.png) 
+
+# 개인블로그
+- [https://chanp5660.github.io](https://chanp5660.github.io)
+
+# My Stack
+
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>  <img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>  <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>  <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>  <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>  <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white"/>  
+
+
 
 <!--
 **chanp5660/chanp5660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
